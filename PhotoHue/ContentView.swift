@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  PhotoHue
 //
-//  Created by trc vpn on 19.12.2024.
+//  Created by yekta on 19.12.2024.
 //
 
 import SwiftUI
